@@ -1,6 +1,6 @@
 import pandas
 
-df=pd.read_csv("donantes.csv",sep=";")
+df=pandas.read_csv("donantes.csv",sep=";")
 
 print("Datos cargados correctamente")
 print(df.head())
