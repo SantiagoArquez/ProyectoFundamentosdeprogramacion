@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas
 
 df=pd.read_csv("donantes.csv",sep=";")
 
